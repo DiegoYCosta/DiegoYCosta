@@ -17,9 +17,9 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e programação. Atualm
 
 ## 🌱 Em Aprendizado  
 Atualmente, estou estudando:  
-- Flutter avançado  
-- Testes automatizados  
-- Arquitetura de software  
+- Flutter
+- JavaScript
+- Arquitetura de software e Banco de Dados
 
 ---
 
