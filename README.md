@@ -1,5 +1,5 @@
 # 💻 Sobre Mim  
-Sou um desenvolvedor iniciante apaixonado por tecnologia e programação. Atualmente, contribuo para projetos em **JavaScript** e **Android/Flutter**, buscando aprimorar minhas habilidades e aprender com a comunidade.  
+Sou um desenvolvedor Frontend e atualmente, contribuo para projetos em **JavaScript** e **Android/Flutter**, buscando aprimorar minhas habilidades e aprender com a comunidade.  
 
 🚀 Interesso-me por desenvolvimento mobile e web, e estou sempre explorando novas ferramentas e boas práticas de código.  
 
