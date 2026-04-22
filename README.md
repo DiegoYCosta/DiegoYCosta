@@ -24,10 +24,10 @@ Atualmente, estou estudando:
 ---
 
 ## 📫 Como Me Encontrar  
-- GitHub: [github.com/usuario](https://github.com/DiegoYCosta)
-- LinkedIn: [linkedin.com/in/usuario](https://linkedin.com/in/diegoc94/)
+- GitHub: https://github.com/DiegoYCosta
+- LinkedIn: linkedin.com/in/diegoc94/
 - Email: diego.c94@yahoo.com
 
 ---
 
-⚡ Sempre aberto a colaborações e novas oportunidades! 🚀  
+Aberto a colaborações e novas oportunidades!
